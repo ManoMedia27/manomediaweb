@@ -130,17 +130,17 @@ ul li{
 .common_btn:hover{
     color: #000;
 }
-.common_btn.red_bg{
+.common_btn.yellow_bg{
     padding: 28px 40.5px;
 }
-.common_btn.red_bg:after{
-    background: #e62b4a;
+.common_btn.yellow_bg:after{
+    background: #fee34a;
 }
-.common_btn.red_bg:hover:after{
+.common_btn.yellow_bg:hover:after{
     width: 100%;
 }
-.common_btn.red_bg:hover{
-    color: #fff;
+.common_btn.yellow_bg:hover{
+    color: #000;
 }
 
 /*------------------------------------------------------------------------------
@@ -175,11 +175,14 @@ ul li{
     text-transform: uppercase;
     margin: 0 0 25px;
 }
-.red_color{
-    color: #e62b4a;
+.primary_color{
+    color: #fee34a;
 }
 .white{
     color: #ffffff;
+}
+.black{
+    color: #000;
 }
 .sec_desc{
     margin: 0 0 54px;

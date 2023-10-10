@@ -74,3 +74,7 @@
 .mei-camera:before { content: url(../images/camera.png); }
 .mei-mike:before { content: url(../images/mike.png); }
 .mei-event:before { content: url(../images/event.png); }
+
+.back .mei-camera:before { content: url(../images/camera-black.png); }
+.back .mei-mike:before { content: url(../images/mike-black.png); }
+.back .mei-event:before { content: url(../images/event-black.png); }

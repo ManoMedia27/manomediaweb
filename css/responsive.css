@@ -235,6 +235,11 @@ License URI:
         margin-bottom: 50px;
         text-align: center !important;
     }
+    .videoWrap iframe{
+        width: 100%;
+        padding: 25px;
+        height: 400px;
+    }   
     .play_video a.video_popup{
         width: 45px;
         height: 45px;
@@ -253,7 +258,7 @@ License URI:
         width: 100%;
         margin-bottom: 15px;
     }
-    .subscribefrom .common_btn.red_bg{
+    .subscribefrom .common_btn.yellow_bg{
         margin-left: 0;
     }
     .BR{
@@ -451,7 +456,7 @@ License URI:
         padding-right: 0;
         padding-bottom: 100px;
     }
-    .single-comment .common_btn.red_bg{
+    .single-comment .common_btn.yellow_bg{
         left: 85px;
         right: auto;
         bottom: 30px;
@@ -595,7 +600,7 @@ License URI:
     .subscribefrom input[type="email"]{
         width: 100%;
     }
-    .subscribefrom .common_btn.red_bg{
+    .subscribefrom .common_btn.yellow_bg{
         margin-top: 15px;
     }
     .BR{
